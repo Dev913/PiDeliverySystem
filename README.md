@@ -5,6 +5,7 @@ A system that betters most delivery notification systems. System was written in 
 1. Raspberry Pi
 2. Raspberry Pi Camera
 3. Rasberry Pi Case With Power Button!
+4. Auxillary to USB Converter + Auxillary Cord + Auxillary Compatible Speaker
 
 # How to utilize?
 1. Flash rasbian onto your raspberry pi (Tutorial: https://www.raspberrypi.org/documentation/installation/installing-images/)
