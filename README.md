@@ -4,7 +4,7 @@ A system that betters most delivery notification systems. System was written in 
 # Requirements
 1. Raspberry Pi
 2. Raspberry Pi Camera
-3. Rasberry Pi Case With Button!
+3. Rasberry Pi Case With Power Button!
 
 # How to utilize?
 1. Flash rasbian onto your raspberry pi (Tutorial: https://www.raspberrypi.org/documentation/installation/installing-images/)
