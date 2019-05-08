@@ -1,5 +1,7 @@
 # PiDeliverySystem
 A system that betters most delivery notification systems. System was written in python.
+But is not faster than all see not all are slow. For the ones that are slow i bettered.
+*I hope to help the ones that are slow as well what i mean is maybe they can utilize this project*
 
 # Requirements
 1. Raspberry Pi
