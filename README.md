@@ -6,8 +6,8 @@ A system that betters most delivery notification systems. System was written in 
 2. Raspberry Pi Camera
 3. Rasberry Pi Case With Power Button!
 5. Email
-6. Twilio Account with twilio phone number and regular phone number
-7. Auxillary to USB Converter + Auxillary Cord + Auxillary Compatible Speaker
+6. Twilio Account with twilio phone number and regular phone number (OPTIONAL)
+7. Auxillary to USB Converter + Auxillary Cord + Auxillary Compatible Speaker (OPTIONAL)
 
 # How to utilize?
 1. Flash rasbian onto your raspberry pi (Tutorial: https://www.raspberrypi.org/documentation/installation/installing-images/)
