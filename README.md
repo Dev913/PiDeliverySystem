@@ -5,7 +5,7 @@ I hope to help the ones that are slow as well what i mean is maybe they can util
 
 # Requirements
 1. Raspberry Pi
-2. Raspberry Pi Camera (Utlized to take picture of your delivery!)
+2. Raspberry Pi Camera (Utilized to take picture of your delivery!)
 3. Rasberry Pi Case With Power Button!
 5. Email
 6. Twilio Account with twilio phone number and regular phone number (OPTIONAL)
