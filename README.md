@@ -1,5 +1,6 @@
 # PiDeliverySystem
 SHORT (Description): A system that betters most delivery notification systems. System was written in python.
+
 LONG (Description): It is a delivery notification system it will help with delivery notifications so maybe if the users gone or there and is maybe asleep they will get 3 notifications via sms or verbally or email. Or even if their awake but maybe their elderly and can’t hear well this could help with that too. The main purpose though is to make sure the user gets their delivery notifications on time not all services delivery notification systems will alert the user right then and there.
 
 # Requirements
