@@ -31,6 +31,3 @@ LONG (Description): It is a delivery notification system it will help with deliv
   Substep 7: Press Ctrl + x to exit
   
  4. You are setup! Now just explain to your Delivery Person how to use it and you will get notified on delivery!
- 
-# Not a competition
-Yes i do know that. But see some people get upset over idiotic occurences!
