@@ -13,7 +13,8 @@ LONG (Description): It is a delivery notification system it will help with deliv
 
 # How to utilize?
 1. Flash rasbian onto your raspberry pi (Tutorial: https://www.raspberrypi.org/documentation/installation/installing-images/)
-2. Follow Substeps
+2. Enable picamera with commmand "sudo raspi-config" Interfacing Options > Pi Camera > Enable
+3. Follow Substeps
 
   Substep 1: Download files and extract the Data folder and PiDeliverySystem.py along with requirements.py to Desktop
   
@@ -29,7 +30,7 @@ LONG (Description): It is a delivery notification system it will help with deliv
   
   Substep 7: Press Ctrl + x to exit
   
- 3. You are setup! Now just explain to your Delivery Person how to use it and you will get notified on delivery!
+ 4. You are setup! Now just explain to your Delivery Person how to use it and you will get notified on delivery!
  
 # Not a competition
 Yes i do know that. But see some people get upset over idiotic occurences!
