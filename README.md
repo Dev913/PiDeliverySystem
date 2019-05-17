@@ -6,7 +6,7 @@ LONG (Description): It is a delivery notification system it will help with deliv
 # Requirements
 1. Raspberry Pi
 2. Raspberry Pi Camera (Utilized to take picture of your delivery!)
-3. Rasberry Pi Case With Power Button! (optional)
+3. Rasberry Pi Case With Power Button!
 5. Email
 6. Twilio Account with twilio phone number and regular phone number (OPTIONAL)
 7. Auxillary to USB Converter + Auxillary Cord + Auxillary Compatible Speaker (OPTIONAL)
